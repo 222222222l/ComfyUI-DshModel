@@ -1,0 +1,11 @@
+[project]
+name = "ComfyUI-DshModel"
+description = "Single-turn chat with the local DeepSeek Harness (dsh) service on :3080 - multi-image prompt reverse inference with model switching."
+version = "0.1.0"
+
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "local"
+DisplayName = "DshModel"
+Icon = ""
